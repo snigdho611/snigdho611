@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 [![snigdho611's GitHub stats](https://github-readme-stats.vercel.app/api?username=snigdho611)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snigdho611)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **snigdho611/snigdho611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
